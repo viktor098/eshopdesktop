@@ -1,3 +1,3 @@
-# E-shop Java desktop application
+# E-shop desktop application
 
-Project contains user app and server app. 
+Repositority contains user app and server app.
